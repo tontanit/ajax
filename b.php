@@ -1,5 +1,6 @@
 <?php
-    $ho = $_POST['ho'];
-    echo $ho;
+    $a = $_GET['a'];
+    $b = $_GET['b'];
+    echo $tc = $a + $b;
 
 ?>
